@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559054539 source:/home/hericlys/Documentos/codblocks projects/contar frequencia de palavras/frequencia/main.c
+	<stdio.h>
+	<string.h>
+
